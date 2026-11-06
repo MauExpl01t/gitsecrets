@@ -31,6 +31,10 @@ historial — son dos urgencias distintas (si sigue en HEAD, es doblemente
 grave; si ya no está, igual hay que rotar la credencial, porque el
 historial sigue siendo público si el repo lo es).
 
+## Demo
+
+![Demo de GitSecrets](./assets/demo.svg)
+
 ## Instalación (Windows / PowerShell)
 
 ```powershell
