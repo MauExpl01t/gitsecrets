@@ -1,5 +1,9 @@
 # GitSecrets
 
+![Tests](https://github.com/MauExpl01t/gitsecrets/actions/workflows/tests.yml/badge.svg)
+![Python](https://img.shields.io/badge/python-3.12-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+
 Escáner de secretos en el **historial** de un repositorio git, hermano de
 [WebScan](../webscan), [SubdomainEnum](../subdomain-enum) y
 [PwCheck](../pwcheck). Muchas veces alguien sube sin querer una clave o
