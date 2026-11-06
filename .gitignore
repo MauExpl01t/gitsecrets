@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+*.egg-info/
+build/
+dist/
+
+# Reportes de la herramienta: aunque el secreto va truncado, listan rutas
+# y commits de un repositorio real. No deben subirse a un repo público.
+reporte*.html
+reporte*.json
